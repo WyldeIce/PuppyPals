@@ -1,1 +1,25 @@
+.App {
+  margin-left: 1rem;
+  min-width: 100vw;
+  min-height: 100vh;
+}
 
+.featPup {
+  border: 2px solid white;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  max-width: fit-content;
+  box-shadow: 2px 2px 2px black;
+}
+
+.header {
+  text-decoration: underline;
+  text-align: center;
+  margin-left: -1rem;
+  margin-top: 1rem;
+  background-color: rgba(60, 4, 112, 0.377);
+}
+
+.puppyList {
+  text-decoration: underline;
+}
